@@ -1,5 +1,3 @@
-YouTube - https://youtu.be/rm5C3dITHmY
-
 # About Pet Feed #
 Pet Feed is an original automatic pet feeding sensing device. We believe that development
 should come into our lives and facilitate it for a long time. Therefore, several properties and
@@ -14,25 +12,40 @@ Pet Feed will be an affordable, quality feeder for your pets.
 
 ## The constituent parts of Pet Feed ##
 
+
+
 Pet Feed has the most comfortable construction design. From the code files you can see how
 carefully we have written our codes in order to show you how our device is built.
+![Not completed Project](https://github.com/Pamirbek/PetFeeder/blob/master/screenshot%20images/For%20md.png)
 
 1. In the image above, you can see the complete assembled design of our feeder, consisting
-of a box, spindle and a connecting part, the mechanical part that will open and close,
+of a bunker, cap, platform and a the mechanical part that will open and close,
 thereby pouring the right amount of feed.
-2. In this image you will see the part called - the Box. It consists of a space in the form of a
+![Saving every part](https://github.com/Pamirbek/PetFeeder/blob/master/screenshot%20images/Saving%20every%20element%20separately.png)
+
+2. In this image you will see the part called - the Platform. It consists of a space in the form of a
 circle for pouring feed; it is deepened inward so that the feed does not scatter around.
 Also in the figure you will see that we assembled this structure separately, preserving
 each part.
-3. Here we show the upper part of the structure – the Spindle, the part where the feed will
+![Beginning](https://github.com/Pamirbek/PetFeeder/blob/master/screenshot%20images/Beginning%20of%20project.png)
+![Testing together](https://github.com/Pamirbek/PetFeeder/blob/master/screenshot%20images/Two%20simple%20parts.png)
+
+3. Here we show the upper part of the structure – the Bunker, the part where the feed will
 be contained before the device pours it down. Here we show the upper part of the
 structure - the Funnel, the part where the feed will be contained before the device pours it
 down. Also, the first picture you can see how this part was created, being initially only a
 roller. Further, the structure was changed, in order to accommodate more feed.
+![Hole](https://github.com/Pamirbek/PetFeeder/blob/master/screenshot%20images/Hole%20picture.png)
+
 4. The connecting part, in which you can also approximately see the hole where the pet food
 will be spilled out.
+![TinkerCad circuit](https://github.com/Pamirbek/PetFeeder/blob/master/screenshot%20images/Circuit%20picture.png)
+![TinkerCad licence](https://github.com/Pamirbek/PetFeeder/blob/master/screenshot%20images/Licence%20Screen%20Shot.png)
+
 5. And the inside of our apparatus, including a servo, an ultrasonic sensor and an Arduino^1.
 the Site through which the inside was made is licensed.
+![Moving parts](https://github.com/Pamirbek/PetFeeder/blob/master/screenshot%20images/Moving%20parts.jpeg)
+
 6. The mechanical part that will open and close, thereby pouring the right amount of feed.
 
 ## Pet Feed Sponsors ##
@@ -61,8 +74,11 @@ students of COM19 of Ala-too International University.
 ## Project authors ##
 * Almazbekov Pamirbek - pamirbek.almazbekov@iaau.edu.kg
 * Asakeev Aidar - aidar.asakeev@iaau.edu.kg
-* Usupbekova Nurkyz - nurkyz.usupbekova@iaau.edu.kg
 * Mukhtarbekova Zhibek – zhibek.mukhtarbekova@iaau.edu.kg
+* Usupbekova Nurkyz - nurkyz.usupbekova@iaau.edu.kg
 
 Arduino is an open-source hardware and software company, project and user community that designs
 and manufactures single-board microcontrollers and microcontroller kits for building digital devices.
+
+## You-Tube ##
+https://youtu.be/rm5C3dITHmY
