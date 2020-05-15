@@ -58,13 +58,10 @@ The Pit Feed project is a complete project, ready for printing and use, owned by
 students of COM19 of Ala-too International University.
 
 Project authors
- Almazbekov Pamirbek - pamirbek.almazbekov@iaau.edu.kg
-
- Asakeev Aidar - aidar.asakeev@iaau.edu.kg
-
- Usupbekova Nurkyz - nurkyz.usupbekova@iaau.edu.kg
-
- Mukhtarbekova Zhibek – zhibek.mukhtarbekova@iaau.edu.kg
+Almazbekov Pamirbek - pamirbek.almazbekov@iaau.edu.kg
+Asakeev Aidar - aidar.asakeev@iaau.edu.kg
+Usupbekova Nurkyz - nurkyz.usupbekova@iaau.edu.kg
+Mukhtarbekova Zhibek – zhibek.mukhtarbekova@iaau.edu.kg
 
 Arduino is an open-source hardware and software company, project and user community that designs
 and manufactures single-board microcontrollers and microcontroller kits for building digital devices.
